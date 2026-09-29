@@ -1,0 +1,14 @@
+# Python Environment
+venv/
+.venv/
+env/
+
+# Jupyter Notebooks Caches
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Data Files 
+*.csv
+*.xlsx
+*.zip
+*.tar.gz
