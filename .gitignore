@@ -8,7 +8,7 @@ env/
 */.ipynb_checkpoints/*
 
 # Data Files 
-*.csv
-*.xlsx
-*.zip
-*.tar.gz
+#*.csv
+#*.xlsx
+#*.zip
+#*.tar.gz

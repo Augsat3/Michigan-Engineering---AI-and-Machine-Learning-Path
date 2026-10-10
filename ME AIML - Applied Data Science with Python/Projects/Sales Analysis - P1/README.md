@@ -1,4 +1,4 @@
-# Sales Analysis - AAL (Australian Apparel Ltd), Q4 2020
+﻿# Sales Analysis - AAL (Australian Apparel Ltd), Q4 2020
 Exploratory data analysis of AAL's fourth quarter 2020 sales, state by state. It finds the highest and lowest revenue states, suggests sales programs for the low revenue states, and gives data-driven insights to the Head of Sales and Marketing.
 
 
@@ -88,5 +88,5 @@ Install with: `pip install pandas numpy matplotlib seaborn scipy`
 ## Files
 - `Sales_Analysis_Notebook.ipynb`: full analysis
 - `AusApparalSales4thQrt2020.csv`: source data
-- `Sales_Analysis_cleaned.csv`: Cleaned data
+- `Sales_Analysis_c_v2.csv`: Cleaned data
 - `problem_statement.docx`: Problem Statement
