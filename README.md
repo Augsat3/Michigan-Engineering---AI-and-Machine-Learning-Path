@@ -9,4 +9,4 @@ The ME AIML Learning path layout
 ** Course#07 - ME AIML: Foundation Models and Generative AI Platforms by IBM
 ** Course#08 - ME AIML: Capstone Project
 
-Course#02 --> WIP Projects
+Course#03 --> WIP Projects
